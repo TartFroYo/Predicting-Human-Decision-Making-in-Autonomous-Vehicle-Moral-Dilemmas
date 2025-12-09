@@ -23,7 +23,7 @@ Our goals:
 
 We evaluate multiple supervised learning models to predict decision outcomes:
 + CatBoost (best performing, AUC ≈ 0.78)
-+XGBoost
++ XGBoost
 + Random Forest
 + Logistic Regression
 
