@@ -1,5 +1,6 @@
 # Predicting Human DecisionMaking in Autonomous Vehicle Moral Dilemmas
 **Team 12: Aileen Li, Alex Edwards, Carol Le, Mikyung Oh, Radha Pawar**
+[Medium Post Link](https://medium.com/p/fbf7ce8e11ad/edit)
 
 This project explores whether human moral judgments in autonomous-vehicle crash dilemmas can be predicted using machine learning. Using 100,000 outcome-level samples from MIT’s Moral Machine dataset, we model the probability that a given outcome (“stay” or “swerve”) will be chosen by a participant.
 Our work includes exploratory data analysis, predictive modeling, interpretability via SHAP, and segmentation analysis to understand cross-cultural and scenario-based variation in moral preferences.
